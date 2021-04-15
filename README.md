@@ -4,4 +4,5 @@ A Notification bot for Discord that notifies when to buy different stocks to opt
 
 ![bollinger](https://user-images.githubusercontent.com/80186528/114901582-8da89880-9dda-11eb-8a61-87f433681e7e.png)
 
+To apply Discord Token to the python file, save it in a text as Token.txt in the same folder.
 Developed from this Telegram Vanguard Bot: https://github.com/danicrg/stocks-bot/blob/master/README.md
